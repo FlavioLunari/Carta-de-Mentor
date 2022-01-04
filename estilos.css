@@ -69,6 +69,7 @@ body {
   border-radius: 50%;
   margin-top: calc(-48px - 5px);
   background-color: white;
+  max-width: 100px;
 }
 
 .card-body-title {
